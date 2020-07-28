@@ -1,2 +1,2 @@
 # Zookeper
-Проект из HyperSkill
+Project from HyperSkill.org
