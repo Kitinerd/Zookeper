@@ -125,5 +125,7 @@ choice = input()
 while choice != 'exit':
     if int(choice) < 6:
         print(animals[int(choice)])
+    else:
+        print('Incorrect number, please try again!')
     choice = input()
 print("See you later!")
